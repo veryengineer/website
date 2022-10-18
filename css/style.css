@@ -1,0 +1,23 @@
+html, body {
+  min-height: 100%
+}
+
+.font-changa {
+  font-family: "Changa", sans-serif;
+}
+
+.bg-yellow {
+  background-color: rgb(182,174,61)
+}
+
+.text-yellow {
+  color: rgb(182,174,61)
+}
+
+.sep {
+  border-bottom: 4px dotted rgb(182,174,61)
+}
+
+a, a:hover {
+  color: inherit;
+}
